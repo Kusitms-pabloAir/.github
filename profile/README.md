@@ -25,7 +25,7 @@
 - 도어락 잠금 해제
 
 ### ✍️ 서비스 아키텍처
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/78305431/192707767-11baa0f7-8e70-45b5-a35e-96b49d90b2ae.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/78305431/192710299-d00bc558-039d-466a-b1c9-c70b9b7a2c03.png">
 
 ### 🔌 아두이노 회로도
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/78305431/192709363-b93a0db8-4cf0-4d06-b1a0-c7235d19f18b.png">
